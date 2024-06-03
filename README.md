@@ -1,6 +1,4 @@
-## Hi there 👋
 
-# 💫 About Me:
 I specialize in Artificial Intelligence and Machine Learning. Armed with hands-on experience from academic projects, internships, and courses.
 
 
