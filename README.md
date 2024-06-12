@@ -11,8 +11,6 @@ I specialize in Artificial Intelligence and Machine Learning. Armed with hands-o
 ![](https://github-readme-stats.vercel.app/api?username=venkatlovenkatesh&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=venkatlovenkatesh&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatlovenkatesh&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/venkatlovenkatesh?theme=dark&font=ABeeZee)
 ---
 [![](https://visitcount.itsvg.in/api?id=venkatlovenkatesh&icon=0&color=9)](https://visitcount.itsvg.in)
 
