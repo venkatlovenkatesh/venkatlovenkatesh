@@ -12,29 +12,41 @@
 - https://x.com/lovenkatesh
 
 # Skills
-**Python:** Proficient in Python programming language with expertise in object-oriented programming (OOP) principles and modular programming.
+## Python:
+- Proficient in Python programming language with expertise in object-oriented programming (OOP) principles and modular programming.
 
-**Data Structures and Algorithms:** Experienced in implementing and analyzing efficient data structures and algorithms for solving complex problems.
+## Data Structures and Algorithms:
+- Experienced in implementing and analyzing efficient data structures and algorithms for solving complex problems.
 
-**Machine Learning:** Skilled in developing and deploying both supervised and unsupervised learning algorithms, including principal component analysis (PCA), and well-versed in probability and statistics concepts.
+## Machine Learning:
+-Skilled in developing and deploying both supervised and unsupervised learning algorithms, including principal component analysis (PCA), and well-versed in probability and statistics concepts.
 
-**Data Science:** Proficient in data analysis, data visualization, exploratory data analysis (EDA), data modeling, data engineering, pattern recognition, and predictive modeling techniques.
+## Data Science:
+-Proficient in data analysis, data visualization, exploratory data analysis (EDA), data modeling, data engineering, pattern recognition, and predictive modeling techniques.
 
-**Deep Learning:** Experienced in building and training deep learning models, including artificial neural networks (ANN), convolutional neural networks (CNN), recurrent neural networks (RNN) such as gated recurrent units (GRU) and long short-term memory (LSTM), image processing, transfer learning, and hyperparameter tuning.
+## Deep Learning:
+-Experienced in building and training deep learning models, including artificial neural networks (ANN), convolutional neural networks (CNN), recurrent neural networks (RNN) such as gated recurrent units (GRU) and long short-term memory (LSTM), image processing, transfer learning, and hyperparameter tuning.
 
-**Natural Language Processing (NLP):** Skilled in NLP techniques such as tokenization, stemming, lemmatization, bag of words, and word2vec.
+## Natural Language Processing (NLP):
+- Skilled in NLP techniques such as tokenization, stemming, lemmatization, bag of words, and word2vec.
 
-**Libraries and Frameworks:** Proficient in using various libraries and frameworks, including TensorFlow, Scikit-learn, NLTK, Keras, PyTorch, Pandas, NumPy, OpenCV, Streamlit, and MediaPipe.
+## Libraries and Frameworks:
+- Proficient in using various libraries and frameworks, including TensorFlow, Scikit-learn, NLTK, Keras, PyTorch, Pandas, NumPy, OpenCV, Streamlit, and MediaPipe.
 
-**MLOps:** Experienced in model monitoring, model tracking, model packaging, containerization, model deployment, version control systems, and continuous integration/continuous deployment (CI/CD) practices.
+## MLOps:
+- Experienced in model monitoring, model tracking, model packaging, containerization, model deployment, version control systems, and continuous integration/continuous deployment (CI/CD) practices.
 
-**Generative AI:** Knowledgeable in large language models (LLM), Langchain, retrieval-augmented generation (RAG), fine-tuning, Langserve, prompt engineering, and Langsmith.
+## Generative AI:
+- Knowledgeable in large language models (LLM), Langchain, retrieval-augmented generation (RAG), fine-tuning, Langserve, prompt engineering, and Langsmith.
 
-**Cloud Platforms:** Proficient in working with cloud platforms such as AWS, Azure, and Google Cloud Platform.
+## Cloud Platforms:
+- Proficient in working with cloud platforms such as AWS, Azure, and Google Cloud Platform.
 
-**Tools:** Skilled in using various tools, including Git, MLflow, Microsoft Excel, Docker, and Power BI.
+## Tools: 
+- Skilled in using various tools, including Git, MLflow, Microsoft Excel, Docker, and Power BI.
 
-**Databases:** Experienced in working with databases such as MongoDB (NoSQL) and MySQL (relational).
+## Databases:
+- Experienced in working with databases such as MongoDB (NoSQL) and MySQL (relational).
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=venkatlovenkatesh&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=venkatlovenkatesh&theme=nord&hide_border=true)<br/>
