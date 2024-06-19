@@ -47,11 +47,10 @@
 
 ### Databases:
 - Experienced in working with databases such as MongoDB (NoSQL) and MySQL (relational).
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=venkatlovenkatesh&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=venkatlovenkatesh&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatlovenkatesh&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
----
+
 [![](https://visitcount.itsvg.in/api?id=venkatlovenkatesh&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
